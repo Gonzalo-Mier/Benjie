@@ -3,13 +3,13 @@
 Benjie is a little three-wheeled differentially steered robot we made to follow an aruco marker. It uses a tm4c1294exp with the boosterpack. 
 
 <p align="center">
-  <img src="doc/imgs/benjie.png" width="350" title="Benjie robot">
+  <img src="docs/imgs/benjie.jpg" width="350" title="Benjie robot">
 </p>
 
 Benjie use a kinect to localize himself and the objective. This kinect is placed in a structure to obtain the Top-down perspective.
 
 <p align="center">
-  <img src="doc/imgs/structure.jpg" width="350" title="Kinect in a structure">
+  <img src="docs/imgs/structure.jpg" width="350" title="Kinect in a structure">
 </p>
 
 Benjie has two ways to be controlled: using a PC controller or autonomously following an aruco marker. 
@@ -23,7 +23,7 @@ Benjie has two ways to be controlled: using a PC controller or autonomously foll
 To start the deployment, you have to place the kinect as follows:
 
 <p align="center">
-  <img src="doc/imgs/whole_structure.jpg" width="350" title="Deployment of the hardware">
+  <img src="docs/imgs/whole_structure.jpg" width="350" title="Deployment of the hardware">
 </p>
 
 In Benjie, the boosterpack is connected with tm4c1294exp in the port 2.  
